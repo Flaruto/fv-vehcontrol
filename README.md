@@ -1,6 +1,10 @@
 # VehControl FlavyV Re-Edit | VehControl NUI Menu
 
+# To Change Resource Name
+  > Replace fv-vehcontrol in vehui.html with your name you want to name it
+
 # Use For Radial Menu 
+
       {
          id = 'openmenu',
          title = 'Open Control Menu',
@@ -10,7 +14,7 @@
          shouldClose = true
       },
 
-NUI visual menu vehicle script for FiveM
+# NUI visual menu vehicle script for FiveM
 
 ![image](https://i.imgur.com/9thToV6.png)
 
