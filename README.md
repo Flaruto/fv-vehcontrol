@@ -1,5 +1,15 @@
 # VehControl FlavyV Re-Edit | VehControl NUI Menu
 
+# Use For Radial Menu 
+      {
+         id = 'openmenu',
+         title = 'Open Control Menu',
+         icon = 'car',
+         type = 'client',
+         event = 'vehcontrol:openExternal',
+         shouldClose = true
+      },
+
 NUI visual menu vehicle script for FiveM
 
 ![image](https://i.imgur.com/9thToV6.png)
