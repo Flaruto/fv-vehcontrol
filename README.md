@@ -2,7 +2,7 @@
 
 NUI visual menu vehicle script for FiveM
 
-![image]([https://i.imgur.com/9thToV6.png])
+![image](https://i.imgur.com/9thToV6.png)
 
 ## Features
 
