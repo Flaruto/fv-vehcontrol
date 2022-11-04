@@ -1,4 +1,4 @@
-# vehcontrol flavyv re-edit
+# VehControl FlavyV Re-Edit | VehControl NUI Menu
 
 NUI visual menu vehicle script for FiveM
 
@@ -68,51 +68,21 @@ Open menu from another resource with events
 
 ## TODO
 
-- Nothing Currently
+** Nothing So Far **
 
-Feature request can be made [Here](https://github.com/Manvaril/vehcontrol/issues/new/choose)
+Feature request can be made [Here](https://github.com/Flaruto/fv-vehcontrol/issues/new)
 
 ## Changelog
 
-**v1.1.6**
-- Added KeyMapping so clients can change the keybind in the game menu
-- Added Default Key to config
+** Nothing So Far **
 
-**v1.1.5**
-- Added new manifest file [#10](https://github.com/Manvaril/vehcontrol/issues/10)
+## Bug
 
-**v1.1.4**
-- Added secondary way to call the menu using events
+** Nothing So Far **
 
-**v1.1.3**
-- Added Exports to call the menu from another resource
+## Original 
 
-**v1.1.2**
-- Merged Pull request #2 by yhtrae, which added a fix for disabling the opening of the menu while in the ESC pause menu
-- Added ability to keep the engine running when you get out of the drivers seat
-- Add LeaveRunning [true/false] flag to config
-
-**v1.1.1**
-- Fix Auto-Seat Shuffle
-- Add DisableSeatShuffle [true/false] flag to config
-
-**v1.1.0**
-- Fixed seat switching (was unable to move to driver from every seat)
-- Added config.lua with settings
-- Added /engine command
-- Added /hood command
-- Added /trunk command
-- Added /door command
-- Added /seat command
-- Added /window command
-- Added /windowfront command
-- Added /windowback command
-- Added /windowall command
-- Added vehcontrolclose command (use in F8 if NUI stuck open)
-- Restructured code to be modular with NUI and Commands
-
-**v1.0.0**
-- Initial Release
+https://github.com/Manvaril/vehcontrol
 
 ## License
 
